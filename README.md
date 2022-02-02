@@ -1,8 +1,7 @@
 # AutoTopBarJS
 Add Auto Colorful Css TopBar on Website show automatic onload Using AutoTopBar.js
 
-> GitHub :- [https://github.com/SH20RAJ/AutoTopBarJS/](https://github.com/SH20RAJ/AutoTopBarJS/)
-> Website :- [https://sh20raj.github.io/AutoTopBarJS/](https://sh20raj.github.io/AutoTopBarJS/)
+> GitHub :- [https://github.com/SH20RAJ/AutoTopBarJS/](https://github.com/SH20RAJ/AutoTopBarJS/) | Website :- [https://sh20raj.github.io/AutoTopBarJS/](https://sh20raj.github.io/AutoTopBarJS/)
 
 
 > See Demo on [Repl.it](https://tutorials.sh20raj.repl.co/add-topbar-onload/) | See Full [Documentation on CXDI Blog](https://codexdindia.blogspot.com/2021/05/add-auto-colorful-css-topbar-on-websiteshow-automatic-onload-ft-.html) 
